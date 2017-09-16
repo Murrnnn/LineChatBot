@@ -9,7 +9,7 @@ from src.bot import main
 | |      | | |  \| | |__   
 | |      | | | . ` |  __|  
 | |____ _| |_| |\  | |____ 
-|______|_____|_| \_|______| CHATBOT v1.1 by darkdivision@cbfteam / snoww0lf@Noobs1337.
+|______|_____|_| \_|______| CHATBOT v1.1 by darkdivision@cbfteam / snoww0lf@Noobs1337 / nfmrrn@sbt.
 
 These list of external libraries/another services which are i used in this application.
 
