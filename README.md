@@ -3,9 +3,9 @@ LINE Messaging Chat Bot.
 # Requirements & Dependencies
 Libraries Needed: <br>
 - Python 2.7.x <br>
-- pip install line <br>
-- pip install pafy <br>
-- pip install goslate <br>
+- $ pip2 install line <br>
+- $ pip2 install pafy <br>
+- $ pip2 install goslate <br>
 
 # Screenshot
 ![IMAGE ALT TEXT HERE](https://cloud.githubusercontent.com/assets/12862541/8268114/279263a2-17ab-11e5-9d08-6ec75ddfe23f.png)
