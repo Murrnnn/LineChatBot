@@ -16,7 +16,7 @@ except ImportError, e:
     print "[+] Please install -> %s first!" % (e)
 
 try:
-    client = LineClient(authToken=Settings().AUTH_TOKEN)
+    client = LineClient(authToken=Settings().kzeA+llYO/tme1lwAKCcNtTKTHEFXHVVXUTTvW3+bi3BVTwmn8molAwfkM4I1jWxcAN28833NrlSgVe5r+tZ0kBO+jxZbjPRAl8E1L0JWthKKcozX2tetLl7LpjIPEriFw8Ens77gh4rK/ieAi1aOQdB04t89/1O/w1cDnyilFU=)
 except Exception as reason:
     print "[+] Login Failed! [+]"
     print "[+] Reason: ", reason
